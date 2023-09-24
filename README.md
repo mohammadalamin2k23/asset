@@ -1,10 +1,8 @@
 # asset
-# https://mohammadalamin2k23.github.io/asset
 
-``` 
-$ git clone https://github.com/mohammadalamin2k23/asset
-```
-# https://probetemplates.blogspot.com/
+
+
+
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/mohammadalamin2k23/asset)
@@ -16,9 +14,9 @@ $ git clone https://github.com/mohammadalamin2k23/asset
   <br />
 
   <h2 align="center"> - Asset</h2>
-  Youdemi is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Asset is a fully responsive  website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://mohammadalamin2k23.github.io/asset"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -26,7 +24,7 @@ $ git clone https://github.com/mohammadalamin2k23/asset
 
 ### Demo Screeshots
 
-![Youdemi Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![ Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -36,23 +34,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Youdemi** locally, run this command on your git bash:
+To run **Asset** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/youdemi.git
+sudo git clone https://github.com/mohammadalamin2k23/asset.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/youdemi.git
+git clone https://github.com/mohammadalamin2k23/asset.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Blogger](https://probetemplates.blogspot.com/).
 
 ### License
 
